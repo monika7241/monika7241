@@ -1,1 +1,4 @@
-- 👋 Hi, I’m Monika Jha 
+- ## Hi👋 I’m Monika Jha🙋
+- 📊 Aspiring Data Analyst💻
+- ## About me
+- Data Analyst skilled in collecting, cleaning,🧹and analyzing datasets to uncover insights☘️ and support data-driven decisions.💯 Proficient in tools like Excel,🧾 SQL,🖥️ Python,💡 and visualization platforms like Power BI.⌨️
