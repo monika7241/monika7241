@@ -14,3 +14,9 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+## 📂 Featured Projects
+
+1. **[Black Money Transaction Analysis](https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/)**  
+   - **Description**: A data-driven project to analyze patterns in black money transactions, uncover anomalies, and identify potential fraud or illicit activities.  
+   - **Tech Stack**: Python, Pandas, Streamlit.  
+   - **Live Demo**: [View the Dashboard](https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/)
