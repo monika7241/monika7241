@@ -20,3 +20,9 @@
    - **Description**: A data-driven project to analyze patterns in black money transactions, uncover anomalies, and identify potential fraud or illicit activities.  
    - **Tech Stack**: Python, Pandas, Streamlit.  
    - **Live Demo**: [View the Dashboard](https://quantum-leap-coders-043-hihtycagx4mn9ahptxtjtp.streamlit.app/)
+## 📂 Featured Projects
+
+1. **[AIRBNB Price Dashboard](https://github.com/monika7241/AIRBNB_Price_Dashboard.git)**  
+   - **Description**: A comprehensive dashboard for analyzing Airbnb pricing trends to uncover insights about rental markets.  
+   - **Tech Stack**: Power BI, Python, SQL.  
+   - **Repository Link**: [View on GitHub](https://github.com/monika7241/AIRBNB_Price_Dashboard.git)
